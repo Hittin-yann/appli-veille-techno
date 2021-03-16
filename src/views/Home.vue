@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="logoG" src="../assets/Mortel-modifier.png">
-    <HelloWorld msg="Bienvenue sur le site de Geronde"/>
+    <HelloWorld msg="Bienvenue sur le site de HITTIN Yann"/>
   </div>
 </template>
 

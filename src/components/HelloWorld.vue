@@ -5,12 +5,12 @@
       En 2021, j'était en 2ème année de BTS SIO option SLAM.
     </p>
     <p>
-      <button type='button' v-on:click="this.$router.push({ path: '/about' })" class='home-b'>About</button>
+      <button type='button' v-on:click="$router.push({ path: 'about' })" class='home-b'>About</button>
     </p>
     <h2>Réseau sociaux</h2>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">Facebook</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://fr-fr.facebook.com/yann.hittin" target="_blank" rel="noopener">Facebook</a></li>
+      <li><a href="https://www.instagram.com/yannhittin/" target="_blank" rel="noopener">Instagram</a></li>
     </ul>
   </div>
 </template>
