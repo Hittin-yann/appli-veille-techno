@@ -5,7 +5,8 @@
       En 2021, j'était en 2ème année de BTS SIO option SLAM.
     </p>
     <p>
-      <button type='button' v-on:click="$router.push({ path: 'about' })" class='home-b'>About</button>
+      <button type='button' v-on:click="$router.push({ path: 'about' })" class='home-b'>About</button><br>
+      <button type='button' v-on:click="$router.push({ path: 'connexion' })" class='home-b'>Connexion</button>
     </p>
     <h2>Réseau sociaux</h2>
     <ul>
